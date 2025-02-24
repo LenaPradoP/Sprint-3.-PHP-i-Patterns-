@@ -18,7 +18,7 @@ class Container {
         if (!isset($this->services[$name])) {
             throw new Exception("No service registered with name: {$name}");
         }
-        
+
         return $this->services[$name]();
     }
 }

@@ -7,14 +7,7 @@ use GettingOut\Items\Phone;
 use GettingOut\Items\MetroCard;
 use GettingOut\People\Person;
 
-
-require_once __DIR__ . '/src/Container.php';
-require_once __DIR__ . '/src/Item.php';
-require_once __DIR__ . '/src/Wallet.php';
-require_once __DIR__ . '/src/Keys.php';
-require_once __DIR__ . '/src/MetroCard.php';
-require_once __DIR__ . '/src/Phone.php';
-require_once __DIR__ . '/src/Person.php';
+require_once 'vendor/autoload.php';
 
 $container = new Container();
 
