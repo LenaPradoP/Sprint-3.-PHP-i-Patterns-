@@ -53,12 +53,12 @@ Este ejercicio se centra en la implementación de diferentes patrones de diseñ.
 ### 🐯 Ejercicio 1: Singleton (Tigger)  
 1. Abre el archivo `tigger.php` en tu servidor local:  
    ```
-   http://localhost/nombre-del-repositorio/tigger.php
+   http://localhost/Sprint-3.-PHP-i-Patterns-/Nivell 1/Ejercicio 1/tigger.php
    ``` 
 ### 🏠 Ejercicio 2: Inyección de Dependencias  
-1. Ejecuta el archivo principal de este ejercicio:  
-   ``` 
-2. http://localhost/nombre-del-repositorio/index.php
+1. Ejecuta el archivo principal de este ejercicio: 
+   ```
+   http://localhost/Sprint-3.-PHP-i-Patterns-/Nivell 1/Ejercicio 2/index.php
    ```  
 ---
 
