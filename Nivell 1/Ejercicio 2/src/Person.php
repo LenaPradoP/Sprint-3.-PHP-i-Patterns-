@@ -1,16 +1,12 @@
 <?php 
 declare(strict_types =1);
 
-class Person {
+namespace GettingOut\People;
 
+class Person {
     private array $items;
-    
+
     public function __construct(array $items) {
-        foreach ($items as $item) {
-            if ($item === null) {
-                throw new InvalidArgumentException("Item cannot be null");
-            }
-        }
         $this->items = $items;
     }
 
